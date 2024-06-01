@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Aravind-SL/Bus_ticket_booking_frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Aravind-SL/Bus_ticket_booking_backend.git

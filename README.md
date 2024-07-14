@@ -28,7 +28,7 @@ To get started with this project, follow the steps below:
 1. **Clone the Main Repository**:
     ```sh
     git clone --recurse-submodules https://github.com/Aravind-SL/Bus_ticket_booking.git
-    cd <repository-directory>
+    cd Bus_ticket_booking
     ```
 
 2. **Initialize and Update Submodules**:
